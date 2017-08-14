@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace LostNFound\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
